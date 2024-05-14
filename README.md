@@ -18,7 +18,7 @@ As part of the requirements for completing my internship program, I embarked on 
 
 ## Purpose of the Project
 
-The personal portfolio project serves multiple purposes, including:
+The personal portfolio project serves multiple purposes, including but not limited to:
 
 - **Showcasing Learning:** It provides a comprehensive overview of the skills and expertise I have developed throughout my internship, allowing prospective employers and clients to assess my capabilities at a glance.
 - **Enhancing Visibility:** By making myself visible through this portfolio, I aim to attract opportunities for career advancement and professional growth in the field of data analytics.
